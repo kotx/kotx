@@ -9,8 +9,8 @@ Here's a non-exhaustive list:
 
 - [render](https://github.com/kotx/render), a spec-compliant Cloudflare Worker to serve objects from a Cloudflare R2 storage bucket.
 - [aster](https://github.com/kotx/aster), another Cloudflare Worker that allows you to reliably upload objects to Cloudflare R2.
+- [dex-tailscale](https://github.com/kotx/dex-tailscale), a simple Dex setup to use Tailscale for one/zero-click authentication.
 - [laplace](https://github.com/kotx/laplace), a program to use a Raspberry Pi Pico microcontroller for Cemuhook-compatible motion controls!
-- [shovel](https://github.com/kotx/shovel), a client for placing lots of pixels on [Place IPv6](https://v6.sys42.net/).
 - [march](https://github.com/kotx/march), a markov chain implementation in Rust.
 - [my website](https://github.com/kotx/yukata.dev)
 - and more on this very page in the repos tab!
